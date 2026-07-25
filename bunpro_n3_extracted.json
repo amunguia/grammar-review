@@ -1,0 +1,1102 @@
+[
+  {
+    "grammar_point": "ばいい",
+    "general_translation": "Can, Should, It'd be good if",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%84%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "たらいい・といい",
+    "general_translation": "It would be nice if, It would be good if, Should, I hope",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%89%E3%81%84%E3%81%84-%E3%81%A8%E3%81%84%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "中（ちゅう）",
+    "general_translation": "During, While, Throughout, In the process of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E4%B8%AD?deck_id=9"
+  },
+  {
+    "grammar_point": "の間（あいだ）に",
+    "general_translation": "While, During, Between, Period",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AE%E9%96%93%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "内（うち）に",
+    "general_translation": "While, During",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%86%E3%81%A1%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "ない内（うち）に",
+    "general_translation": "Before it becomes, Before ~ occurs, Without",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%86%E3%81%A1%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "べき",
+    "general_translation": "Must, Should , Ought to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%B9%E3%81%8D?deck_id=9"
+  },
+  {
+    "grammar_point": "べきではない",
+    "general_translation": "Should not, Must not , Ought not to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%B9%E3%81%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "って",
+    "general_translation": "As for, Speaking of, Casual は (Sentence topic marker)",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A3%E3%81%A6-slang?deck_id=9"
+  },
+  {
+    "grammar_point": "中々（なかなか）",
+    "general_translation": "Very, Quite, Considerably",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8B%E3%81%AA%E3%81%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "余（あま）り",
+    "general_translation": "So much...that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%82%E3%81%BE%E3%82%8A?deck_id=9"
+  },
+  {
+    "grammar_point": "中々（なかなか）～ない",
+    "general_translation": "Not really, Hardly, Not easily or readily, By no means, Far from",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8B%E3%81%AA%E3%81%8B-%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "によると",
+    "general_translation": "According to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%82%88%E3%82%8B%E3%81%A8-%E3%81%AB%E3%82%88%E3%82%8C%E3%81%B0?deck_id=9"
+  },
+  {
+    "grammar_point": "による",
+    "general_translation": "By means of, According to, Depending on, Because of, Due to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6-%E3%81%AB%E3%82%88%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "全（まった）く～ない",
+    "general_translation": "Not~at all",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%85%A8%E3%81%8F-%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "事（こと）だ",
+    "general_translation": "Should, Ought",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "そうだ",
+    "general_translation": "I heard that, It is said that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "すると",
+    "general_translation": "Having done..., If...is done..., (And/just) then, Thereupon, If so",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%99%E3%82%8B%E3%81%A8?deck_id=9"
+  },
+  {
+    "grammar_point": "そうすると",
+    "general_translation": "Having done that..., If that is done..., (And/just) then, Thereupon, If so",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86%E3%81%99%E3%82%8B%E3%81%A8?deck_id=9"
+  },
+  {
+    "grammar_point": "のは～の方（ほう）だ",
+    "general_translation": "It is...that..., It is...who..., ...is the one that..., ...is the one who...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AFx%E3%81%AE%E6%96%B9%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "(Noun) + 型（がた）",
+    "general_translation": "Model, Type, Pattern, Kind, Shape, Size(d)",
+    "bunpro_url": "https://bunpro.jp/grammar_points/noun-%E5%9E%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "てご覧（らん）",
+    "general_translation": "(Please) try to, (Please) look",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A6%E3%81%94%E3%82%89%E3%82%93?deck_id=9"
+  },
+  {
+    "grammar_point": "させてもらう",
+    "general_translation": "To have the honor of doing, To take the liberty of doing, To do (polite, formal)",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%95%E3%81%9B%E3%81%A6%E3%82%82%E3%82%89%E3%81%86?deck_id=9"
+  },
+  {
+    "grammar_point": "(Particle) + の",
+    "general_translation": "Combined particles",
+    "bunpro_url": "https://bunpro.jp/grammar_points/particle-%E3%81%AE?deck_id=9"
+  },
+  {
+    "grammar_point": "である",
+    "general_translation": "Formal or literary だ, Authoritative, Copula",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%82%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "ところが",
+    "general_translation": "Even so, However, Even though, But",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%93%E3%82%8D%E3%81%8C?deck_id=9"
+  },
+  {
+    "grammar_point": "ところで",
+    "general_translation": "By the way, Incidentally",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7?deck_id=9"
+  },
+  {
+    "grammar_point": "程（ほど）",
+    "general_translation": "The more, About, To the extent that, So much… that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%BB%E3%81%A9?deck_id=9"
+  },
+  {
+    "grammar_point": "ば～程（ほど）",
+    "general_translation": "The more…the more",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%B0-%E3%81%BB%E3%81%A9?deck_id=9"
+  },
+  {
+    "grammar_point": "程（ほど）～ない",
+    "general_translation": "Is not as…as, Isn't... like..., Not to the extent of...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%BB%E3%81%A9%EF%BD%9E%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "それでは",
+    "general_translation": "If so, Well (then), In that case",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%AF-%E3%81%9D%E3%82%8C%E3%81%A7%E3%81%AF-%E3%81%98%E3%82%83%E3%81%82?deck_id=9"
+  },
+  {
+    "grammar_point": "のに",
+    "general_translation": "In order to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AE%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "為（ため）に",
+    "general_translation": "For, For the sake of, In order to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%81-%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "為（ため）に",
+    "general_translation": "Due to, Because of, As a result of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%81%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "と言（い）う",
+    "general_translation": "Called, Named, Known as, As much as",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%86-called?deck_id=9"
+  },
+  {
+    "grammar_point": "と言（い）う事（こと）だ",
+    "general_translation": "I heard that, Rumor has it that, It is said that, It means that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "と言（い）うのは",
+    "general_translation": "~ Known as ~ is, ~ Called ~ is, ~ Means ~, Because",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%81%AF?deck_id=9"
+  },
+  {
+    "grammar_point": "的（てき）",
+    "general_translation": "~ly・~like・~al, Typical",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E7%9A%84?deck_id=9"
+  },
+  {
+    "grammar_point": "もの・もん",
+    "general_translation": "Because, Cause",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE-%E3%82%82%E3%82%93?deck_id=9"
+  },
+  {
+    "grammar_point": "ものだ",
+    "general_translation": "Supposed to, Should, That's the way it is",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%82%E3%81%AE%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "最中（さいちゅう）に",
+    "general_translation": "In the middle of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E6%9C%80%E4%B8%AD%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "上（うえ）で",
+    "general_translation": "After, Upon",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E4%B8%8A%E3%81%A7?deck_id=9"
+  },
+  {
+    "grammar_point": "お陰（かげ）で",
+    "general_translation": "Thanks to, Because of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7?deck_id=9"
+  },
+  {
+    "grammar_point": "に基（もと）づいて",
+    "general_translation": "Based on, In accordance with",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%82%82%E3%81%A8%E3%81%A5%E3%81%84%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "点（てん）",
+    "general_translation": "Aspect, Respect, Point, Way, In terms of, In that, From the point of view",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E7%82%B9?deck_id=9"
+  },
+  {
+    "grammar_point": "なぜなら + から",
+    "general_translation": "Because, The reason is, That is because",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%9C%E3%81%AA%E3%82%89-%E3%81%8B%E3%82%89?deck_id=9"
+  },
+  {
+    "grammar_point": "こそ",
+    "general_translation": "For sure, For certain, Even more so, Underlined or bolded text",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%9D?deck_id=9"
+  },
+  {
+    "grammar_point": "からこそ",
+    "general_translation": "Emphasized because, Precisely because",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89%E3%81%93%E3%81%9D?deck_id=9"
+  },
+  {
+    "grammar_point": "ばかり",
+    "general_translation": "Just, Only, Nothing but",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%8B%E3%82%8A?deck_id=9"
+  },
+  {
+    "grammar_point": "ばかりだ",
+    "general_translation": "(Only) continue to, Keep on -ing, More and more",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "ばかりに",
+    "general_translation": "Simply because, Only because, Just because, Simply on account of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "事（こと）がある",
+    "general_translation": "Something is possible, Sometimes, Occasionally, There are times when",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "事（こと）にする",
+    "general_translation": "To decide on, Have decided to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AB%E3%81%99%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "事（こと）なの",
+    "general_translation": "(A) is (Description of A), (A) means that (Description of A)",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AA%E3%81%AE?deck_id=9"
+  },
+  {
+    "grammar_point": "事（こと）になる",
+    "general_translation": "It will end up being, It is the result of, It has been decided that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "は～で有名（ゆうめい）",
+    "general_translation": "Is famous for",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AF-%E3%81%A7%E6%9C%89%E5%90%8D?deck_id=9"
+  },
+  {
+    "grammar_point": "事（こと）はない",
+    "general_translation": "There is no need to, Never happens",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "と言（い）っても",
+    "general_translation": "Although ~ might say that ~",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E8%A8%80%E3%81%A3%E3%81%A6%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "といえば",
+    "general_translation": "Speaking of, If it were the case that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%88%E3%81%B0?deck_id=9"
+  },
+  {
+    "grammar_point": "合（あ）う",
+    "general_translation": "To do for one another, Mutually, With",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%90%88%E3%81%86?deck_id=9"
+  },
+  {
+    "grammar_point": "に合（あ）わせて",
+    "general_translation": "In accordance with, Matching, Fitting, Suitable for, Adjust or tune to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6-%E3%81%AB%E5%90%88%E3%81%A3%E3%81%9F?deck_id=9"
+  },
+  {
+    "grammar_point": "について",
+    "general_translation": "Concerning, About, Regarding",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "の姿（すがた）",
+    "general_translation": "Figure, Shape, Appearance, Looks, Wearing, Dressed in, Presence",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AE%E5%A7%BF?deck_id=9"
+  },
+  {
+    "grammar_point": "と言（い）える",
+    "general_translation": "Would or could say that..., Can probably say that..., Fair to say that...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E8%A8%80%E3%81%88%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "ちゃんと",
+    "general_translation": "Properly, Neatly, Orderly, Sufficiently, Decently",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8-%E3%81%8D%E3%81%A1%E3%82%93%E3%81%A8?deck_id=9"
+  },
+  {
+    "grammar_point": "その為（ため）に",
+    "general_translation": "For that reason, Because of that, To that end",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%AE%E3%81%9F%E3%82%81-%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "その結果（けっか）",
+    "general_translation": "As a result",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%AE%E7%B5%90%E6%9E%9C?deck_id=9"
+  },
+  {
+    "grammar_point": "に比（くら）べて",
+    "general_translation": "Compared to, When compared to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E6%AF%94%E3%81%B9%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "どんなに～ても",
+    "general_translation": "No matter how",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A9%E3%82%93%E3%81%AA%E3%81%AB-%E3%81%A6%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "いくら～でも",
+    "general_translation": "No matter how (much)",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%84%E3%81%8F%E3%82%89-%E3%81%A7%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "かは〜によって違（ちが）う",
+    "general_translation": "Depends on, Changes depending on, Differ depending on",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%AF-%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E9%81%95%E3%81%86?deck_id=9"
+  },
+  {
+    "grammar_point": "かなり",
+    "general_translation": "Quite, Considerably, Pretty, Fairly",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%AA%E3%82%8A?deck_id=9"
+  },
+  {
+    "grammar_point": "余（あま）りに",
+    "general_translation": "So much...that, (Way) too...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%82%E3%81%BE%E3%82%8A%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "訳（わけ）だ",
+    "general_translation": "For that reason, No wonder, As you'd expect, Naturally, Thus, This is why",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "訳（わけ）ではない",
+    "general_translation": "It doesn't mean that, It is not the case, It's not like",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "と同時（どうじ）に",
+    "general_translation": "At the same time as, The instant, The moment, As well as",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E5%90%8C%E6%99%82%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "ところだった ①",
+    "general_translation": "Almost, Nearly, About to, On the verge of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A0%E3%81%A3%E3%81%9F1?deck_id=9"
+  },
+  {
+    "grammar_point": "だって",
+    "general_translation": "I heard/was said, Because, But, Even or also, Even if or even though",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%A3%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "んだって",
+    "general_translation": "I heard that, He or She said that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%93%E3%81%A0%E3%81%A3%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "関係（かんけい）がある",
+    "general_translation": "(Not) involved with, (Not) concerned with, (No) connection with, (No) relationship with, (Not) related to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E9%96%A2%E4%BF%82%E3%81%8C%E3%81%82%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "に関（かん）して",
+    "general_translation": "Related to, About, Regarding",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B-%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "に対（たい）して",
+    "general_translation": "In contrast to, While, In regard to, Whereas",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "くらい ②",
+    "general_translation": "To the extent that, So…that, About the only thing that...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8F%E3%82%89%E3%81%842?deck_id=9"
+  },
+  {
+    "grammar_point": "は～くらいです",
+    "general_translation": "About the only, To the extent that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AF-%E3%81%8F%E3%82%89%E3%81%84%E3%81%A7%E3%81%99?deck_id=9"
+  },
+  {
+    "grammar_point": "さ (Interjection)",
+    "general_translation": "All right, There we go, Now, You see, Well (I don't know, let me see)",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%95-interjection?deck_id=9"
+  },
+  {
+    "grammar_point": "さ (Filler)",
+    "general_translation": "Like, You know, You see, Listen, Uhh",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%95-filler?deck_id=9"
+  },
+  {
+    "grammar_point": "さ (Casual よ)",
+    "general_translation": "Casual よ",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%95-casual%E3%82%88?deck_id=9"
+  },
+  {
+    "grammar_point": "それぞれ",
+    "general_translation": "Each, Respectively",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C?deck_id=9"
+  },
+  {
+    "grammar_point": "ままに (As Is)",
+    "general_translation": "As is, While remaining, Left in a state",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%BE?deck_id=9"
+  },
+  {
+    "grammar_point": "そこで",
+    "general_translation": "Accordingly, Now, Therefore, To that end",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%93%E3%81%A7?deck_id=9"
+  },
+  {
+    "grammar_point": "しかない",
+    "general_translation": "Have no choice but, Only, Just",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "～ても構（かま）わない",
+    "general_translation": "It doesn't matter if, I don't mind",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82%E3%81%8B%E3%81%BE%E3%82%8F%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "～ても～なくても",
+    "general_translation": "Whether ~ or not",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A6%E3%82%82-%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "んじゃない",
+    "general_translation": "Don't, Mustn't, Shouldn't have",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "訳（わけ）がない",
+    "general_translation": "There is no way, There is no reason, It is impossible, Cannot be",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%8C%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "とすると",
+    "general_translation": "If it were the case that, Assuming that...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%97%E3%81%9F%E3%82%89-%E3%81%A8%E3%81%99%E3%82%8C%E3%81%B0-%E3%81%A8%E3%81%99%E3%82%8B%E3%81%A8?deck_id=9"
+  },
+  {
+    "grammar_point": "として",
+    "general_translation": "As (i.e. in the role of), For",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%97%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "にしては",
+    "general_translation": "(Even) considering, (Even) for",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%97%E3%81%A6%E3%81%AF?deck_id=9"
+  },
+  {
+    "grammar_point": "にしても",
+    "general_translation": "Even though, Even if, Even when, Also",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%97%E3%81%A6%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "と言（い）うのは事実（じじつ）だ",
+    "general_translation": "It is a fact that ~, There is no doubt that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%81%AF%E4%BA%8B%E5%AE%9F%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "から言（い）うと",
+    "general_translation": "Speaking in terms of, From the point of view of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8B%E3%82%89%E8%A8%80%E3%81%86%E3%81%A8?deck_id=9"
+  },
+  {
+    "grammar_point": "にとって",
+    "general_translation": "To, For, Concerning",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E5%8F%96%E3%81%A3%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "事（こと）から",
+    "general_translation": "From the fact that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89?deck_id=9"
+  },
+  {
+    "grammar_point": "と言（い）うより",
+    "general_translation": "...is more of a... than a..., Rather than saying that...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%86%E3%82%88%E3%82%8A?deck_id=9"
+  },
+  {
+    "grammar_point": "はもちろん",
+    "general_translation": "Not only but also, Let alone, Not to mention, Of course",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AF%E3%82%82%E3%81%A1%E3%82%8D%E3%82%93?deck_id=9"
+  },
+  {
+    "grammar_point": "を始（はじ）め",
+    "general_translation": "Not only...but also..., Starting with",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%92%E3%81%AF%E3%81%98%E3%82%81?deck_id=9"
+  },
+  {
+    "grammar_point": "～て初（はじ）めて",
+    "general_translation": "For the first time, Not until, Only after, Only when, Only because",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A6%E5%88%9D%E3%82%81%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "さえ",
+    "general_translation": "Even",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%95%E3%81%88?deck_id=9"
+  },
+  {
+    "grammar_point": "さえ～ば",
+    "general_translation": "If only…then, As long as..., Provided..., Only thing ... needs for ... is ...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%95%E3%81%88-%E3%81%B0?deck_id=9"
+  },
+  {
+    "grammar_point": "～たものだ",
+    "general_translation": "Used to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "さて",
+    "general_translation": "Well, Well then",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%95%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "むしろ",
+    "general_translation": "Rather, Instead, Over",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%80%E3%81%97%E3%82%8D?deck_id=9"
+  },
+  {
+    "grammar_point": "つまり",
+    "general_translation": "In short, To sum up, In other words",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A4%E3%81%BE%E3%82%8A?deck_id=9"
+  },
+  {
+    "grammar_point": "即（すなわ）ち",
+    "general_translation": "In other words, That is, Namely",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%8D%B3%E3%81%A1?deck_id=9"
+  },
+  {
+    "grammar_point": "却（かえ）って",
+    "general_translation": "All the more, On the contrary, Conversely",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%8D%B4%E3%81%A3%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "まるで～様（よう）だ",
+    "general_translation": "It is entirely as if, It is just as though",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%BE%E3%82%8B%E3%81%A7-%E3%82%88%E3%81%86%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "様（よう）な気（き）がする",
+    "general_translation": "Have a feeling that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%88%E3%81%86%E3%81%AA%E6%B0%97%E3%81%8C%E3%81%99%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "とても～ない",
+    "general_translation": "Not ~ at all, Cannot ~ at all",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%A6%E3%82%82-%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "別（べつ）に～ない",
+    "general_translation": "Not really, Not particularly, It's not like...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%88%A5%E3%81%AB-%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "ばかりでなく",
+    "general_translation": "Not only…but also, As well as",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%A7%E3%81%AA%E3%81%8F?deck_id=9"
+  },
+  {
+    "grammar_point": "ではなくて",
+    "general_translation": "Not A but B, Conjunctive",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%A6-%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "だけでなくて～も",
+    "general_translation": "Not only ~ but ~ also, Not just ~ but ~ also",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F-%E3%81%A6-%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "だけしか～ない",
+    "general_translation": "To emphasize '~only', Nothing but",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%91%E3%81%97%E3%81%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "は言（い）うまでもない ①",
+    "general_translation": "It goes without saying (that), (It is) needless to say, I don't need to remind you",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AF%E8%A8%80%E3%81%86%E3%81%BE%E3%81%A7%E3%82%82%E3%81%AA%E3%81%841?deck_id=9"
+  },
+  {
+    "grammar_point": "決（けっ）して〜ない",
+    "general_translation": "Never, By no means",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E6%B1%BA%E3%81%97%E3%81%A6-%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "訳（わけ）には行（い）かない",
+    "general_translation": "Cannot afford to, No way, Impossible to do",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%91%E3%81%AB%E3%81%AF%E3%81%84%E3%81%8B%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "う・よう + としない",
+    "general_translation": "Not willing to, Not make an effort to, To not attempt or try to, Volitional + としない",
+    "bunpro_url": "https://bunpro.jp/grammar_points/-%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "もしかしたら",
+    "general_translation": "Perhaps, Maybe, Possibly",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%82%E3%81%97%E3%81%8B%E3%81%97%E3%81%9F%E3%82%89?deck_id=9"
+  },
+  {
+    "grammar_point": "たとえ〜ても",
+    "general_translation": "Even if…is the case, Supposing that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%A8%E3%81%88-%E3%81%A6%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "ことに",
+    "general_translation": "Extremely, Especially, To my ...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "事（こと）か",
+    "general_translation": "How…, What..., God knows...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "かと言（い）うと ①",
+    "general_translation": "Why? Well..., Why? Because..., If you ask me why..., The reason why is..., It is because...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%A81?deck_id=9"
+  },
+  {
+    "grammar_point": "かと言（い）うと ②",
+    "general_translation": "If you ask me..., If I had to say, If I were to say, If I were to choose one, I'd rather",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%A82?deck_id=9"
+  },
+  {
+    "grammar_point": "で言（い）うと",
+    "general_translation": "In, Of, According to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A7%E8%A8%80%E3%81%86%E3%81%A8?deck_id=9"
+  },
+  {
+    "grammar_point": "ずつ",
+    "general_translation": "One at a time, Per, Each, Gradually",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9A%E3%81%A4?deck_id=9"
+  },
+  {
+    "grammar_point": "ずっと ②",
+    "general_translation": "By far, Way, Far...er, Far...more",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9A%E3%81%A3%E3%81%A82?deck_id=9"
+  },
+  {
+    "grammar_point": "だらけ",
+    "general_translation": "Completely covered in, Full of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A0%E3%82%89%E3%81%91?deck_id=9"
+  },
+  {
+    "grammar_point": "尤（もっと）も",
+    "general_translation": "Although, But, However, For all that, Provided that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%82%E3%81%A3%E3%81%A8%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "再（ふたた）び",
+    "general_translation": "Again, Once more, A second time",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%86%8D%E3%81%B3?deck_id=9"
+  },
+  {
+    "grammar_point": "味（み）",
+    "general_translation": "~ness, Used to indicate conditions or nature",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%BF?deck_id=9"
+  },
+  {
+    "grammar_point": "と同（おな）じくらい",
+    "general_translation": "About the same as, About as, No less",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E5%90%8C%E3%81%98%E3%81%8F%E3%82%89%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "とおなじで・とちがって",
+    "general_translation": "Like, Similar to, Unlike, Dissimilar to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E5%90%8C%E3%81%98%E3%81%A7-%E3%81%A8%E9%81%95%E3%81%A3%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "と並（なら）んで",
+    "general_translation": "In line with, Comparable with, Along with, Just like, As … as",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E4%B8%A6%E3%82%93%E3%81%A7?deck_id=9"
+  },
+  {
+    "grammar_point": "に違（ちが）いない",
+    "general_translation": "There is no doubt that, I'm sure",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E9%81%95%E3%81%84%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "当（あ）たり",
+    "general_translation": "Per~, A~, Apiece, Each",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%BD%93%E3%81%9F%E3%82%8A?deck_id=9"
+  },
+  {
+    "grammar_point": "に当（あ）たる",
+    "general_translation": "Correspond to, Amounts to, Equals to, Is appropriate",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E5%BD%93%E3%81%9F%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "に限（かぎ）る",
+    "general_translation": "Nothing better than, There's nothing like, Limited to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E9%99%90%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "とは限（かぎ）らない",
+    "general_translation": "Not necessarily so, Is not always true, There is no guarantee that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%AF%E9%99%90%E3%82%89%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "滅多（めった）に〜ない",
+    "general_translation": "Hardly, Rarely, Seldom",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%81%E3%81%A3%E3%81%9F%E3%81%AB-%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "割（わり）に",
+    "general_translation": "Although, Despite, Rather...for, Unexpectedly, Comparatively, Considering",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%8F%E3%82%8A%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "う・よう + とする",
+    "general_translation": "Try to, Attempt to, To be about to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/verb-volitional%E3%81%A8%E3%81%99%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "う・よう + としたが",
+    "general_translation": "Tried to ~ but ~, Was about to ~ but ~, Was going to ~ but ~",
+    "bunpro_url": "https://bunpro.jp/grammar_points/verb-volitional-%E3%81%A8%E3%81%97%E3%81%9F%E3%81%8C?deck_id=9"
+  },
+  {
+    "grammar_point": "言（い）うまでもない ②",
+    "general_translation": "It goes without saying, It is needless to say, Of course, Obviously",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E8%A8%80%E3%81%86%E3%81%BE%E3%81%A7%E3%82%82%E3%81%AA%E3%81%842?deck_id=9"
+  },
+  {
+    "grammar_point": "そうもない",
+    "general_translation": "Very unlikely to, Does not seem that, Does not appear that",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9D%E3%81%86%E3%82%82%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "ない事（こと）はない",
+    "general_translation": "Is not impossible, It doesn't mean that it isn't",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "なんて",
+    "general_translation": "Such as, Things like, Emphasis",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%93%E3%81%8B-%E3%81%AA%E3%82%93%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "又（また）〜も",
+    "general_translation": "Moreover, Additionally, And also, In addition, Furthermore, Or",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%8F%88-%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "序（つい）でに",
+    "general_translation": "While you are at it, On the occasion",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A4%E3%81%84%E3%81%A7%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "と共（とも）に",
+    "general_translation": "Together with, At the same time,  As well as",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E5%85%B1%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "に連（つ）れて",
+    "general_translation": "As…then, In proportion to, (Along) with",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%A4%E3%82%8C%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "直（ただ）ちに",
+    "general_translation": "At once, Immediately, As soon as",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E7%9B%B4%E3%81%A1%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "た途端（とたん）に",
+    "general_translation": "The instant or moment, As soon as, Just as",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%A8%E3%81%9F%E3%82%93%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "置（お）きに",
+    "general_translation": "Repeated at intervals, Every other, Every, At intervals of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8A%E3%81%8D%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "度（たび）に",
+    "general_translation": "Each time, Every time, Whenever",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%B3%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "或（あ）るいは",
+    "general_translation": "Or, Possibly, Maybe, Perhaps, Or possibly",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF?deck_id=9"
+  },
+  {
+    "grammar_point": "ながらも",
+    "general_translation": "But, Even while, Even though, Despite, Although",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8C%E3%82%89%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "に於（お）いて",
+    "general_translation": "In, On, At, Regarding, In terms of",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6-%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "第一（だいいち）",
+    "general_translation": "Start, First (point), Foremost, To begin with",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E7%AC%AC%E4%B8%80?deck_id=9"
+  },
+  {
+    "grammar_point": "益々（ますます）",
+    "general_translation": "Increasingly, More and more, Decreasingly, Less and less, Keep -ing",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%99%E3%81%BE%E3%81%99?deck_id=9"
+  },
+  {
+    "grammar_point": "一方（いっぽう）だ",
+    "general_translation": "More and more, Continue to, Keep on, -er and -er",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E4%B8%80%E6%96%B9%E3%81%A0?deck_id=9"
+  },
+  {
+    "grammar_point": "一方（いっぽう）で",
+    "general_translation": "On the other hand, At the same time, While",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E4%B8%80%E6%96%B9%E3%81%A7?deck_id=9"
+  },
+  {
+    "grammar_point": "遂（つい）に",
+    "general_translation": "Finally, At last",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E9%81%82%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "既（すで）に",
+    "general_translation": "Already, Too late",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%99%E3%81%A7%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "ずに",
+    "general_translation": "Without doing",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9A%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "ずには居（い）られない",
+    "general_translation": "Cannot help doing something, Cannot resist doing something",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9A%E3%81%AB%E3%81%AF%E3%81%84%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "無（な）し",
+    "general_translation": "Without, No",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%97?deck_id=9"
+  },
+  {
+    "grammar_point": "考（かんが）えられない",
+    "general_translation": "Unthinkable, Inconceivable, Unimaginable, Cannot think",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E8%80%83%E3%81%88%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "あり",
+    "general_translation": "Possibility, To have, With",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%82%E3%82%8A?deck_id=9"
+  },
+  {
+    "grammar_point": "必（かなら）ずしも",
+    "general_translation": "Not always, Not entirely, Not necessarily",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%BF%85%E3%81%9A%E3%81%97%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "連用形（れんようけい）",
+    "general_translation": "Formal Conjunctive",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E9%80%A3%E7%94%A8%E5%BD%A2?deck_id=9"
+  },
+  {
+    "grammar_point": "向（む）き",
+    "general_translation": "Suitable for, Facing",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%90%91%E3%81%8D?deck_id=9"
+  },
+  {
+    "grammar_point": "向（む）け",
+    "general_translation": "Intended for, Aimed at",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%90%91%E3%81%91?deck_id=9"
+  },
+  {
+    "grammar_point": "上（あ）がる",
+    "general_translation": "Something is finished, To finish something, Something has come to an end, To do something completely, To do something through",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E4%B8%8A%E3%81%8C%E3%82%8B-%E4%B8%8A%E3%81%92%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "切（き）る",
+    "general_translation": "To do something completely to the end, Utterly, Resolutely",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%88%87%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "切（き）れない",
+    "general_translation": "Being unable to finish or complete",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%88%87%E3%82%8C%E3%81%AA%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "きり",
+    "general_translation": "Only, Just, Since",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8D%E3%82%8A?deck_id=9"
+  },
+  {
+    "grammar_point": "掛（か）け",
+    "general_translation": "Half-, Not yet finished, About to, Begin to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%91?deck_id=9"
+  },
+  {
+    "grammar_point": "に掛（か）けて",
+    "general_translation": "Over (a period), From ~ until, Through",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "立（た）て",
+    "general_translation": "Freshly ~ed, Just ~ed",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "込（こ）む ①",
+    "general_translation": "To go into, To put into",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E8%BE%BC%E3%82%801?deck_id=9"
+  },
+  {
+    "grammar_point": "込（こ）む ②",
+    "general_translation": "Remain, To do thoroughly, Deeply, Intensely",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E8%BE%BC%E3%82%802?deck_id=9"
+  },
+  {
+    "grammar_point": "振（ふ）りをする",
+    "general_translation": "To pretend, To act as if",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%B5%E3%82%8A%E3%82%92%E3%81%99%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "できれば",
+    "general_translation": "If possible",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%8D%E3%82%8C%E3%81%B0-%E3%81%A7%E3%81%8D%E3%81%9F%E3%82%89?deck_id=9"
+  },
+  {
+    "grammar_point": "で良（よ）ければ",
+    "general_translation": "If it is alright, If you don't mind, If you would like, If possible",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A7%E3%82%88%E3%81%91%E3%82%8C%E3%81%B0?deck_id=9"
+  },
+  {
+    "grammar_point": "次第（しだい）",
+    "general_translation": "As soon as",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E6%AC%A1%E7%AC%AC?deck_id=9"
+  },
+  {
+    "grammar_point": "通（とお）り",
+    "general_translation": "In that way, Exactly, Precisely, Just as",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8A%E3%82%8A?deck_id=9"
+  },
+  {
+    "grammar_point": "でもある",
+    "general_translation": "Be also, It also is",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A7%E3%82%82%E3%81%82%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "どうしても",
+    "general_translation": "Regardless of, No matter what",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "もしも～なら",
+    "general_translation": "If, Supposing",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%82%E3%81%97%E3%82%82%EF%BD%9E%E3%81%AA%E3%82%89%E3%83%BB%E3%82%82%E3%81%97%E3%82%82%EF%BD%9E%E3%81%A7%E3%82%82?deck_id=9"
+  },
+  {
+    "grammar_point": "同士（どうし）",
+    "general_translation": "Fellow, With each other, Mutually, Between, Among, Together, With",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%90%8C%E5%A3%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "がたい",
+    "general_translation": "Hard to, Difficult to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%9F%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "まさか",
+    "general_translation": "I never dreamed, Never, No way, Don't tell me, You don't say",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%95%E3%81%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "前者（ぜんしゃ）は～後者（こうしゃ）は",
+    "general_translation": "The former ~ the latter, The first ~ the second",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%89%8D%E8%80%85%E3%81%AF-%E5%BE%8C%E8%80%85%E3%81%AF?deck_id=9"
+  },
+  {
+    "grammar_point": "つい",
+    "general_translation": "Accidentally, Unconsciously, Against one's better judgement",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A4%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "せいで",
+    "general_translation": "Because of, Due to, Blame",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9B%E3%81%84%E3%81%A7?deck_id=9"
+  },
+  {
+    "grammar_point": "癖（くせ）に",
+    "general_translation": "Even though, And yet, Despite",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8F%E3%81%9B%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "がち",
+    "general_translation": "Apt to do, Tend to do, Prone to do",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8C%E3%81%A1?deck_id=9"
+  },
+  {
+    "grammar_point": "気味（ぎみ）",
+    "general_translation": "Looking, Feeling a little, Touch of, Tending to, Slightly",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%8E%E3%81%BF?deck_id=9"
+  },
+  {
+    "grammar_point": "っぽい",
+    "general_translation": "-ish, -like, Characteristic of, Typical of, Tendency to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A3%E3%81%BD%E3%81%84?deck_id=9"
+  },
+  {
+    "grammar_point": "っぱなし",
+    "general_translation": "Leaving something in a certain state, Left as is, Keep on -ing",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A3%E3%81%B1%E3%81%AA%E3%81%97?deck_id=9"
+  },
+  {
+    "grammar_point": "わざわざ",
+    "general_translation": "Expressly, Especially, Go out of one's way, Take the trouble to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%82%8F%E3%81%96%E3%82%8F%E3%81%96?deck_id=9"
+  },
+  {
+    "grammar_point": "一体（いったい）",
+    "general_translation": "(What) the heck?, (Who) in the world?, (Where) on earth?, (How many) f*ing...",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E4%B8%80%E4%BD%93?deck_id=9"
+  },
+  {
+    "grammar_point": "折角（せっかく）",
+    "general_translation": "With trouble, At great pains, Take the trouble, Might as well..., Rare/long-awaited occasion",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%9B%E3%81%A3%E3%81%8B%E3%81%8F?deck_id=9"
+  },
+  {
+    "grammar_point": "っけ",
+    "general_translation": "What is…again?, Was it... that... ?, Did you say...?",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A3%E3%81%91?deck_id=9"
+  },
+  {
+    "grammar_point": "代（か）わりに",
+    "general_translation": "Instead of,  In place of, In exchange for",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB?deck_id=9"
+  },
+  {
+    "grammar_point": "に代（か）わって",
+    "general_translation": "In place of, On behalf of, To succeed",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AB%E4%BB%A3%E3%82%8F%E3%81%A3%E3%81%A6?deck_id=9"
+  },
+  {
+    "grammar_point": "どころか",
+    "general_translation": "Far from, Anything but",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "と言（い）う理由（りゆう）で",
+    "general_translation": "For (that) reason; on the grounds of (that), With the reasoning, Under the pretext of, Due to",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%86%E7%90%86%E7%94%B1%E3%81%A7?deck_id=9"
+  },
+  {
+    "grammar_point": "は～となっている",
+    "general_translation": "It is (has been), Have/has become, Happen to be, Has been established",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E3%81%AF-%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B?deck_id=9"
+  },
+  {
+    "grammar_point": "左右（さゆう）する",
+    "general_translation": "Influence, Impact, Control",
+    "bunpro_url": "https://bunpro.jp/grammar_points/%E5%B7%A6%E5%8F%B3%E3%81%99%E3%82%8B?deck_id=9"
+  }
+]

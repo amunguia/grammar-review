@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="JLPT Japanese Grammar Reviewer Application (N4, N3, N2, N1)">
+  <title>Japanese Grammar Reviewer | JLPT N4-N1</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- Top Header Bar -->
+    <header class="app-header">
+      <div class="brand">
+        <span class="brand-icon">文法</span>
+        <h1 class="brand-title">Japanese Grammar Reviewer</h1>
+      </div>
+      <div class="header-actions">
+        <span id="extension-status-badge" class="ext-status-badge" title="Chrome Extension Storage Status">
+          <span class="status-dot"></span> <span class="status-text">Extension Syncing</span>
+        </span>
+        <span id="active-level-badge" class="level-badge hidden">N3</span>
+        <button id="btn-reset-progress" class="btn btn-secondary hidden" title="Clear Reviewed Indices for this Level">
+          🗑️ Reset Level Progress
+        </button>
+        <button id="btn-change-level" class="btn btn-secondary hidden" title="Change Level or Mode">
+          ⚙️ Change Settings
+        </button>
+      </div>
+    </header>
+
+    <!-- Selection Screen (Modal / Dashboard) -->
+    <section id="selection-screen" class="screen-view active">
+      <div class="selection-card">
+        <h2>Choose Study Level & Mode</h2>
+        <p class="subtitle">Select a JLPT level and review order to start practice.</p>
+
+        <div class="form-group">
+          <label class="form-label">JLPT Level</label>
+          <div class="level-grid" id="level-options">
+            <button class="option-btn level-btn" data-level="n4">
+              <span class="level-tag">N4</span>
+              <span class="level-desc">185 Grammar Points</span>
+            </button>
+            <button class="option-btn level-btn active" data-level="n3">
+              <span class="level-tag">N3</span>
+              <span class="level-desc">220 Grammar Points</span>
+            </button>
+            <button class="option-btn level-btn" data-level="n2">
+              <span class="level-tag">N2</span>
+              <span class="level-desc">221 Grammar Points</span>
+            </button>
+            <button class="option-btn level-btn" data-level="n1">
+              <span class="level-tag">N1</span>
+              <span class="level-desc">187 Grammar Points</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Review Sequence</label>
+          <div class="mode-grid" id="mode-options">
+            <button class="option-btn mode-btn active" data-mode="sequential">
+              <span class="mode-icon">📋</span>
+              <span class="mode-title">Sequential Order</span>
+              <span class="mode-sub">Follow Bunpro lesson deck order</span>
+            </button>
+            <button class="option-btn mode-btn" data-mode="random">
+              <span class="mode-icon">🔀</span>
+              <span class="mode-title">Randomized Order</span>
+              <span class="mode-sub">Shuffle all grammar points</span>
+            </button>
+          </div>
+        </div>
+
+        <button id="btn-start-review" class="btn btn-primary btn-large">
+          Start Reviewing
+        </button>
+      </div>
+    </section>
+
+    <!-- Review Screen (Card Deck) -->
+    <section id="review-screen" class="screen-view">
+      
+      <!-- Progress Indicator -->
+      <div class="progress-bar-container">
+        <div class="progress-bar-track">
+          <div id="progress-fill" class="progress-bar-fill"></div>
+        </div>
+        <div class="progress-info">
+          <span id="card-counter" class="counter-text">Card 1 / 220</span>
+          <span id="lesson-info" class="lesson-text">Lesson 1: Possibilities & Time Frames</span>
+        </div>
+      </div>
+
+      <!-- Main Flashcard Area -->
+      <main class="card-wrapper">
+        <article class="grammar-card" id="grammar-card">
+
+          <!-- Step 1: Grammar Point Title -->
+          <div class="card-section section-grammar" id="section-grammar">
+            <div class="section-label">Grammar Point</div>
+            <h2 id="card-grammar-point" class="japanese-title">ばいい</h2>
+          </div>
+
+          <!-- Step 2: General Translation -->
+          <div class="card-section section-translation step-hidden" id="section-translation">
+            <div class="section-label">Meaning / General Translation</div>
+            <p id="card-translation" class="translation-text">Can, Should, It'd be good if</p>
+          </div>
+
+          <!-- Step 3: Formation -->
+          <div class="card-section section-formation step-hidden" id="section-formation">
+            <div class="section-label">Formation / Structure</div>
+            <div id="card-formation" class="formation-box">Verb［ば］ + いい</div>
+          </div>
+
+          <!-- Step 4: Example Sentences & Explanation -->
+          <div class="card-section section-examples step-hidden" id="section-examples">
+            <div class="section-label">Example Sentences & Nuance</div>
+            <p id="card-explanation" class="explanation-text"></p>
+            <div id="card-examples-list" class="examples-list"></div>
+          </div>
+
+        </article>
+      </main>
+
+      <!-- Bottom Controls Bar -->
+      <footer class="controls-bar">
+        <button id="btn-prev" class="btn btn-secondary" title="Previous Card (Backspace / ←)">
+          ← Prev Card
+        </button>
+
+        <div class="step-indicator" id="step-dots">
+          <span class="dot active" title="Step 1: Grammar Point"></span>
+          <span class="dot" title="Step 2: Translation"></span>
+          <span class="dot" title="Step 3: Formation"></span>
+          <span class="dot" title="Step 4: Sentences"></span>
+        </div>
+
+        <button id="btn-next" class="btn btn-primary" title="Advance Step / Next Card (Enter ↵)">
+          <span>Next</span> <kbd class="kbd-badge">Enter ↵</kbd>
+        </button>
+      </footer>
+
+      <!-- Keyboard Hint Overlay -->
+      <div class="keyboard-hint">
+        💡 Tip: Press <kbd>Enter</kbd> or <kbd>Space</kbd> to reveal details / advance card.
+      </div>
+    </section>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
