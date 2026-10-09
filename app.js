@@ -354,6 +354,40 @@ document.addEventListener('DOMContentLoaded', () => {
     // Populate Explanation & Examples
     cardExplanation.textContent = item.explanation || '';
     
+    // Populate Related & Similar Grammar Points
+    const cardRelatedContainer = document.getElementById('card-related-container');
+    const cardRelatedList = document.getElementById('card-related-list');
+
+    if (cardRelatedContainer && cardRelatedList) {
+      cardRelatedList.innerHTML = '';
+      const relatedGps = item.related_grammar || [];
+
+      if (relatedGps.length === 0) {
+        cardRelatedContainer.style.display = 'none';
+      } else {
+        cardRelatedContainer.style.display = 'flex';
+        relatedGps.forEach(rel => {
+          const div = document.createElement('div');
+          div.className = 'related-item';
+
+          const levelStr = rel.level ? rel.level.replace('JLPT', 'N') : '';
+          const badgeHtml = levelStr ? `<span class="related-level-badge">${escapeHTML(levelStr)}</span>` : '';
+          const transHtml = rel.general_translation ? `<div class="related-translation">Meaning: ${escapeHTML(rel.general_translation)}</div>` : '';
+          const noteHtml = rel.difference_note ? `<div class="related-note-box">💡 <strong>Nuance Difference:</strong> ${escapeHTML(rel.difference_note)}</div>` : '';
+
+          div.innerHTML = `
+            <div class="related-item-header">
+              <span class="related-gp-title">${escapeHTML(rel.grammar_point)}</span>
+              ${badgeHtml}
+            </div>
+            ${transHtml}
+            ${noteHtml}
+          `;
+          cardRelatedList.appendChild(div);
+        });
+      }
+    }
+
     cardExamplesList.innerHTML = '';
     const examples = item.example_sentences || [];
     if (examples.length === 0) {
