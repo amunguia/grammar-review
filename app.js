@@ -354,13 +354,37 @@ document.addEventListener('DOMContentLoaded', () => {
     // Populate Explanation & Examples
     cardExplanation.textContent = item.explanation || '';
     
+    // Related Badge Indicator Click Listener (jumps to Step 4)
+    const relatedBadgeIndicator = document.getElementById('related-badge-indicator');
+    if (relatedBadgeIndicator) {
+      relatedBadgeIndicator.addEventListener('click', () => {
+        if (revealStep < 3) {
+          revealStep = 3;
+          updateStepVisibility(true);
+          const cardRelatedContainer = document.getElementById('card-related-container');
+          if (cardRelatedContainer) {
+            cardRelatedContainer.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          }
+        }
+      });
+    }
+
     // Populate Related & Similar Grammar Points
     const cardRelatedContainer = document.getElementById('card-related-container');
     const cardRelatedList = document.getElementById('card-related-list');
 
     if (cardRelatedContainer && cardRelatedList) {
       cardRelatedList.innerHTML = '';
-      const relatedGps = item.related_grammar || [];
+      const relatedGps = item.related_grammar || item.related_grammar_points || [];
+
+      if (relatedBadgeIndicator) {
+        if (relatedGps.length > 0) {
+          relatedBadgeIndicator.textContent = `🔄 ${relatedGps.length} Related Note${relatedGps.length > 1 ? 's' : ''} (Step 4)`;
+          relatedBadgeIndicator.classList.remove('hidden');
+        } else {
+          relatedBadgeIndicator.classList.add('hidden');
+        }
+      }
 
       if (relatedGps.length === 0) {
         cardRelatedContainer.style.display = 'none';
